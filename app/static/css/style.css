@@ -1,0 +1,236 @@
+/* Main Styles for Digital Time Capsule */
+
+/* Global styles */
+.stApp {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white !important;
+}
+
+/* Make all text white */
+p, h1, h2, h3, h4, h5, h6, span, div, label, button, input, textarea, select, option {
+    color: white !important;
+}
+
+/* Custom header styling */
+h1, h2, h3, h4, h5 {
+    font-weight: 600;
+    color: white !important;
+}
+
+/* Sidebar styling */
+.css-1d391kg {
+    background-color: #f8f9fa;
+}
+
+/* Custom card styling */
+.memory-card {
+    border-radius: 5px;
+    border: 1px solid #e0e0e0;
+    padding: 1.5rem;
+    margin-bottom: 1rem;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.memory-card:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* Button styling */
+.stButton>button {
+    border-radius: 4px;
+    font-weight: 500;
+}
+
+/* Tag styling */
+.memory-tag {
+    background-color: #f1f3f5;
+    border-radius: 3px;
+    padding: 2px 8px;
+    margin-right: 5px;
+    font-size: 0.8em;
+    color: white !important;
+}
+
+/* Emotion indicators */
+.emotion-indicator {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    display: inline-block;
+    margin-right: 5px;
+}
+
+.emotion-very-positive {
+    background-color: #28a745;
+}
+
+.emotion-positive {
+    background-color: #5cb85c;
+}
+
+.emotion-neutral {
+    background-color: #6c757d;
+}
+
+.emotion-negative {
+    background-color: #dc3545;
+}
+
+.emotion-very-negative {
+    background-color: #c82333;
+}
+
+/* Custom form styling */
+.stTextInput>div>div>input {
+    border-radius: 4px;
+    color: white !important;
+}
+
+.stTextArea>div>div>textarea {
+    border-radius: 4px;
+    color: white !important;
+}
+
+/* Timeline styling */
+.timeline-container {
+    position: relative;
+    padding-left: 30px;
+}
+
+.timeline-container::before {
+    content: '';
+    position: absolute;
+    left: 10px;
+    top: 0;
+    bottom: 0;
+    width: 2px;
+    background-color: #e9ecef;
+}
+
+.timeline-item {
+    position: relative;
+    margin-bottom: 20px;
+}
+
+.timeline-item::before {
+    content: '';
+    position: absolute;
+    left: -30px;
+    top: 5px;
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    background-color: #6c757d;
+}
+
+/* Insights page styling */
+.insight-card {
+    background-color: #f8f9fa;
+    border-radius: 5px;
+    padding: 15px;
+    margin-bottom: 15px;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .timeline-container {
+        padding-left: 20px;
+    }
+    
+    .timeline-container::before {
+        left: 5px;
+    }
+    
+    .timeline-item::before {
+        left: -20px;
+        width: 10px;
+        height: 10px;
+    }
+}
+
+/* Custom widget styling */
+.stDateInput>div>div>input {
+    border-radius: 4px;
+    color: white !important;
+}
+
+.stSelectbox>div>div>div {
+    border-radius: 4px;
+    color: white !important;
+}
+
+/* Tooltip styling */
+div[data-baseweb="tooltip"] {
+    background-color: #495057;
+    border-radius: 4px;
+    padding: 8px 12px;
+    color: white !important;
+}
+
+/* Custom expander styling */
+.streamlit-expanderHeader {
+    font-weight: 600;
+    color: white !important;
+}
+
+/* Custom metrics styling */
+.stMetric {
+    background-color: #f8f9fa;
+    padding: 10px;
+    border-radius: 5px;
+    color: white !important;
+}
+
+/* Animation for loading */
+@keyframes pulse {
+    0% {
+        opacity: 1;
+    }
+    50% {
+        opacity: 0.5;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+.loading-pulse {
+    animation: pulse 1.5s infinite ease-in-out;
+}
+
+/* Force white text for all Streamlit elements */
+.st-bq, .st-ae, .st-af, .st-ag, .st-ah, .st-ai, .st-aj, .st-ak, .st-al, .st-am, 
+.st-an, .st-ao, .st-ap, .st-aq, .st-ar, .st-as, .st-at, .st-au, .st-av, .st-aw, 
+.st-ax, .st-ay, .st-az, .st-ba, .st-bb, .st-bc, .st-bd, .st-be, .st-bf, .st-bg, 
+.st-bh, .st-bi, .st-bj, .st-bk, .st-bl, .st-bm, .st-bn, .st-bo, .st-bp {
+    color: white !important;
+}
+
+/* Dark background for better contrast with white text */
+.main .block-container {
+    background-color: #1E1E1E !important;
+}
+
+.stApp {
+    background-color: #121212 !important;
+}
+
+.sidebar .sidebar-content {
+    background-color: #1E1E1E !important;
+}
+
+/* Make sure input fields have white text */
+input, textarea, .stTextInput input, .stTextArea textarea {
+    color: white !important;
+}
+
+/* Make sure select boxes have white text */
+.stSelectbox select, .stMultiSelect select {
+    color: white !important;
+}
+
+/* Override any inline styles */
+[style*="color"] {
+    color: white !important;
+}

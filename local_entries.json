@@ -1,0 +1,170 @@
+[
+  {
+    "title": "A Quiet Victory",
+    "content": "Today was one of those calm but fulfilling days. I didn\u2019t do anything extraordinary, but I finally finished the report I\u2019ve been putting off for weeks. There\u2019s a strange kind of peace in simply getting things done without fanfare. I even took a walk without my phone\u2014just me, the breeze, and some birdsong. I need more days like this. Simple. Still. Satisfying.",
+    "date": "2025-04-14",
+    "timestamp": "2025-04-14 02:05:27.264548",
+    "mood": "\ud83d\ude0a Happy",
+    "tags": [
+      "#peace #reflection #smallwins #mentalclarity"
+    ],
+    "is_private": true,
+    "summary": "Today was one of those calm but fulfilling days. I didn\u2019t do anything extraordinary, but I finally finished the report I\u2019ve been putting off for weeks. There\u2019s a strange kind of peace in simply gettin...",
+    "sentiment": {
+      "emotion": "positive",
+      "score": 0.6212962962962962
+    },
+    "keywords": [
+      "days",
+      "weeks",
+      "like",
+      "breeze",
+      "calm"
+    ],
+    "id": "bc0c850f-15ca-419d-b644-b47aaf7420a9"
+  },
+  {
+    "title": "Almost There",
+    "content": "Feeling a bit on edge today. I\u2019ve been juggling multiple tasks, and it feels like I\u2019m barely keeping up. But there\u2019s a strange motivation in the chaos. I\u2019m almost done with everything I had planned for the week. Just need to push through.",
+    "date": "2025-04-13",
+    "timestamp": "2025-04-14 02:07:19.539432",
+    "mood": "\ud83d\ude10 Neutral",
+    "tags": [
+      "#focus #stress #productivity"
+    ],
+    "is_private": true,
+    "summary": "Feeling a bit on edge today. I\u2019ve been juggling multiple tasks, and it feels like I\u2019m barely keeping up. But there\u2019s a strange motivation in the chaos.",
+    "sentiment": {
+      "emotion": "neutral",
+      "score": 0.5
+    },
+    "keywords": [
+      "week",
+      "ve",
+      "bit",
+      "chaos",
+      "edge"
+    ],
+    "id": "11e2b2b5-73ff-4e35-8db0-29204e401acf"
+  },
+  {
+    "title": "Late-Night Spiral",
+    "content": "Had a tough time falling asleep. My mind kept looping old conversations and things I should\u2019ve done differently. I hate how the smallest things grow so big in silence. Hoping tomorrow feels lighter.",
+    "date": "2025-04-12",
+    "timestamp": "2025-04-14 02:07:58.917135",
+    "mood": "\ud83d\ude14 Sad",
+    "tags": [
+      "#overthinking #nightthoughts #emotion"
+    ],
+    "is_private": true,
+    "summary": "Had a tough time falling asleep. My mind kept looping old conversations and things I should\u2019ve done differently. I hate how the smallest things grow so big in silence.",
+    "sentiment": {
+      "emotion": "negative",
+      "score": 0.3638888888888889
+    },
+    "keywords": [
+      "things",
+      "ve",
+      "kept",
+      "big",
+      "conversations"
+    ],
+    "id": "5bed9fbe-2209-4e7c-97f6-3d54e2b2ff2c"
+  },
+  {
+    "title": " Unexpected Kindness",
+    "content": "A stranger paid for my coffee today after my card failed. I didn\u2019t even get to thank them properly. It\u2019s funny how small gestures can lift your whole mood. Maybe I\u2019ll pay it forward tomorrow.",
+    "date": "2025-04-11",
+    "timestamp": "2025-04-14 02:08:32.343432",
+    "mood": "\ud83d\ude0a Happy",
+    "tags": [
+      "#kindness #gratitude #wholesome"
+    ],
+    "is_private": true,
+    "summary": "A stranger paid for my coffee today after my card failed. I didn\u2019t even get to thank them properly. It\u2019s funny how small gestures can lift your whole mood.",
+    "sentiment": {
+      "emotion": "neutral",
+      "score": 0.4625
+    },
+    "keywords": [
+      "tomorrow",
+      "ll",
+      "coffee",
+      "didn",
+      "failed"
+    ],
+    "id": "0898e3cf-9b4b-4afb-a2ba-3122368259e3"
+  },
+  {
+    "title": "Stuck in My Head",
+    "content": "Tried to work today but couldn\u2019t focus at all. Everything feels kind of gray. It\u2019s like I\u2019m waiting for something to change, but I don\u2019t know what that is.",
+    "date": "2025-04-10",
+    "timestamp": "2025-04-14 02:09:10.877079",
+    "mood": "\ud83d\ude14 Sad",
+    "tags": [
+      "#mentalfog #mood #tired"
+    ],
+    "is_private": true,
+    "summary": "Tried to work today but couldn\u2019t focus at all. Everything feels kind of gray. It\u2019s like I\u2019m waiting for something to change, but I don\u2019t know what that is.",
+    "sentiment": {
+      "emotion": "very positive",
+      "score": 0.8
+    },
+    "keywords": [
+      "work",
+      "waiting",
+      "tried",
+      "today",
+      "like"
+    ],
+    "id": "eab5d8d1-e805-49a0-85f8-d3ef063609ea"
+  },
+  {
+    "title": "Stuck in My Head",
+    "content": "Tried to work today but couldn\u2019t focus at all. Everything feels kind of gray. It\u2019s like I\u2019m waiting for something to change, but I don\u2019t know what that is.",
+    "date": "2025-04-10",
+    "timestamp": "2025-04-14 02:09:25.847866",
+    "mood": "\ud83d\ude1f Anxious",
+    "tags": [
+      "#mentalfog #mood #tired"
+    ],
+    "is_private": true,
+    "summary": "Tried to work today but couldn\u2019t focus at all. Everything feels kind of gray. It\u2019s like I\u2019m waiting for something to change, but I don\u2019t know what that is.",
+    "sentiment": {
+      "emotion": "very positive",
+      "score": 0.8
+    },
+    "keywords": [
+      "work",
+      "waiting",
+      "tried",
+      "today",
+      "like"
+    ],
+    "id": "d35a2efd-ed3d-4b3e-92cb-184b0378f40c"
+  },
+  {
+    "title": "A Breath of Fresh Air",
+    "content": "Went hiking alone today. No distractions, just nature and me. The view from the top was stunning and reminded me how small my worries are. I need to do this more often.",
+    "date": "2025-04-09",
+    "timestamp": "2025-04-14 02:10:02.718666",
+    "mood": "\ud83d\ude10 Neutral",
+    "tags": [
+      "#nature #peaceofmind #solitude"
+    ],
+    "is_private": true,
+    "summary": "Went hiking alone today. No distractions, just nature and me. The view from the top was stunning and reminded me how small my worries are.",
+    "sentiment": {
+      "emotion": "positive",
+      "score": 0.65625
+    },
+    "keywords": [
+      "worries",
+      "went",
+      "view",
+      "today",
+      "stunning"
+    ],
+    "id": "b1d5126c-ddd1-47ad-851d-cef21ea31da7"
+  }
+]
