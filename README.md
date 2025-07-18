@@ -435,11 +435,7 @@ The Digital Time Capsule is designed with privacy as a core principle:
 
 ## 👥 Contributors
 
-- G.ADITYA - Initial work and concept
+- V.Niketh 
 
-## 📞 Contact
 
-For questions, suggestions, or collaboration opportunities, please reach out to:
-- Email: adityagnss@gmail.com
 
-# Adityagnss-Digital-Time-Capsule-AI-Memory-Keeper
